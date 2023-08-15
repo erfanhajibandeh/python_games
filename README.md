@@ -1,6 +1,6 @@
 # python_games
 
-Welcome to the Python Games Repository! This repository contains four fun and interactive Python games that you can play right in your terminal. Each game is implemented using Python and offers a unique gaming experience.
+Welcome to the Python Games Repository! This repository contains four fun and easy Python games that you can play right in your terminal. Each game is implemented using Python and offers a unique gaming experience.
 
 ## Games Included
 
